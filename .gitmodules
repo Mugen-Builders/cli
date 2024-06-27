@@ -1,0 +1,3 @@
+[submodule "cartesi-cli"]
+	path = cartesi-cli
+	url = git@github.com:cartesi/cli.git
